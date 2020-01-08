@@ -1,3 +1,7 @@
+POC I created while learning React, includes React, Redux, Redux-Thunk
+
+Fetches Forums Posts from JSONPlaceHolder and renders them.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
